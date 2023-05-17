@@ -95,10 +95,20 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
 
+.logojyothi{
+  width:99px;
+  height:32px;
+}
+
+.logojyothimain{
+  width:99px;
+  height:50px;
+}
+
 h7{
-  position: center;
+  
   color: #ffffff;
-  margin-top: 10px;
+  margin-top: 15px;
   
   font-size: 18px;
 }
