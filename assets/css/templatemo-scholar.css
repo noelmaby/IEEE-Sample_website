@@ -151,7 +151,11 @@ body {
 }
 .map{
   width:70%;
+<<<<<<< HEAD
   float:lWeft;
+=======
+  float:left;
+>>>>>>> ad4eba17a9222191ef1e3cb7192185cd64ee4fa4
   margin-left:15px
 }
 .contact{
